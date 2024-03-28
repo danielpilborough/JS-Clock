@@ -1,1 +1,1 @@
-Simply JS Date and Time website with changing background image.
+Simple JS Date and Time website with changing background image.
